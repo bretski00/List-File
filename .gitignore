@@ -1,1 +1,6 @@
 *.suo
+*.pdb
+*.manifest
+*.exe
+bin/
+obj/
